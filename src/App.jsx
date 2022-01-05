@@ -8,7 +8,7 @@ function App() {
 		<div>
 			<Navbar />
 			<div className="py-4">
-				<Router />
+				<Router  />
 			</div>
 		</div>
 	);

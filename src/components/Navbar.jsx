@@ -34,7 +34,12 @@ const Navbar = () => {
 							</NavLink>
 						</li>
 						<li className="nav-item">
-							<a className="nav-link" style={{cursor: 'pointer'}} onClick={(e) => alert("Hy, I'm Rido.")}>
+							<a className="nav-link" href="https://github.com/ridoananda/collage-management" target="_blank">
+								Github Repo
+							</a>
+						</li>
+						<li className="nav-item">
+							<a className="nav-link" style={{cursor: 'pointer'}} onClick={(e) => alert("Hy, How Are you?")}>
 								Hell yeah.
 							</a>
 						</li>
